@@ -1,6 +1,6 @@
 class User 
   
-  attr_writer :first_name
+  attr_accessor :first_name
 
 
 end
